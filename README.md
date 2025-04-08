@@ -9,7 +9,7 @@ Both are implemented in Java using the **JPBC (Java Pairing-Based Cryptography)*
 ---
 ## Authors 
 1. @Sasya88
-2. Jyothi-CY
+2. @Jyothi-CY
 
 ---
 ## Dependencies
@@ -35,11 +35,11 @@ Both are implemented in Java using the **JPBC (Java Pairing-Based Cryptography)*
 ## How to Compile and Run
 
 ### PEKSJPBCS.java
-javac -cp "./lib/jpbc-api-2.0.0.jar;./lib/jpbc-plaf-2.0.0.jar;." PEKSJPBCS.java
-java -cp "./lib/jpbc-api-2.0.0.jar;./lib/jpbc-plaf-2.0.0.jar;." PEKSJPBCS
+1. javac -cp "./lib/jpbc-api-2.0.0.jar;./lib/jpbc-plaf-2.0.0.jar;." PEKSJPBCS.java
+2. java -cp "./lib/jpbc-api-2.0.0.jar;./lib/jpbc-plaf-2.0.0.jar;." PEKSJPBCS
 ### SPKECRF.java
-javac -cp "./lib/jpbc-api-2.0.0.jar;./lib/jpbc-plaf-2.0.0.jar;." SPKECRF.java
-java -cp "./lib/jpbc-api-2.0.0.jar;./lib/jpbc-plaf-2.0.0.jar;." SPKECRF
+1. javac -cp "./lib/jpbc-api-2.0.0.jar;./lib/jpbc-plaf-2.0.0.jar;." SPKECRF.java
+2. java -cp "./lib/jpbc-api-2.0.0.jar;./lib/jpbc-plaf-2.0.0.jar;." SPKECRF
 
 ---
 ### Features

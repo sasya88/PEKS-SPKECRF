@@ -8,8 +8,8 @@ Both are implemented in Java using the **JPBC (Java Pairing-Based Cryptography)*
 
 ---
 ## Authors 
-1. @Sasya88
-2. @Jyothi-CY
+1. [@Sasya88](https://github.com/Sasya88)  
+2. [Jyothi-CY](https://github.com/Jyothi-CY)
 
 ---
 ## Dependencies
